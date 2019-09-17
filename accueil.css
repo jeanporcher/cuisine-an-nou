@@ -1,0 +1,22 @@
+h1
+{
+	color: #800080;
+}
+p.accroche
+{
+	corlor: red;
+}
+body
+{
+	background-color: #1E90FF;
+}
+
+#carte/*La balise div qui s'appelle carte va s'afficher en fonction de ses 5 lignes*/
+{
+	width: 800px;/*La largeur du bloc est de 800px*/
+	margin: 0 auto;/*Place la zone de 800px au milieu de la page*/
+	background-color   : white;
+	text-align: center;/*Centre le txt*/
+	align-content: center;/*Centre les img*/
+
+}
