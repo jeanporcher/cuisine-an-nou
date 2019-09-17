@@ -1,6 +1,7 @@
 h1
 {
-	color: #800080;
+	color: #FFFFFF;
+	text-align: center;
 }
 p.accroche
 {
@@ -8,7 +9,7 @@ p.accroche
 }
 body
 {
-	background-color: #1E90FF;
+	background-color: #43AB92;
 }
 
 #carte/*La balise div qui s'appelle carte va s'afficher en fonction de ses 5 lignes*/
