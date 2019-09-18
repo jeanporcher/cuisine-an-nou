@@ -4,6 +4,7 @@ h1
 	text-align: center;
 	font-size: 50px;
 	text-shadow: 5px 4px 15px black;
+	border: 2px black groove;
 }
 .accroche
 {
