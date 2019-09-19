@@ -3,11 +3,11 @@ header
 	color             : #f8a978;
 	text-align        : center;
 	text-shadow       : 5px 4px 15px black;
-	border-bottom     : 2px black groove;
+	border-bottom     : 2px blue groove;
 	width             : 30%;
 	display           : block; 
 	margin            : auto;
-	margin-bottom     : 5%;
+	margin-bottom     : 10%;
 	
 	text-align        : center;
 }
